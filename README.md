@@ -36,6 +36,26 @@ Output: `output_tracking.mp4` saved in the same folder.
 - opencv-python
 - torch
 
+⚙️Tools & Technologies
+
+YOLOv11 – Custom-trained for person detection
+
+DeepSORT – For consistent multi-object tracking
+
+OpenCV – For frame processing and video I/O
+
+Git LFS – For managing large model weights
+
+📈 Future Enhancements
+Extend to multi-camera Re-ID scenarios
+
+Add player role classification and heatmaps
+
+Integrate with real-time streaming platforms
+
+
+
+
 ## ⚠️ Notes
 - Large files (`best.pt`, videos) are ignored in `.gitignore`.
 - Use Git LFS for `.pt` models.
